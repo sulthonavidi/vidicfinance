@@ -1,14 +1,10 @@
-# vidicfinance
-A modern, responsive personal finance dashboard built with Vanilla JavaScript. Features real-time crypto tickers, budget management, and local storage data persistence.
-
-# 💰 Vidic Finance
+<img width="535" height="408" alt="Screenshot 2026-02-17 161433" src="https://github.com/user-attachments/assets/0c36beac-0d6b-4618-a015-6d944cdda895" /># 💰 Vidic Finance
 
 **Vidic Finance** is a modern, privacy-focused personal finance management application designed with a mobile-first approach. Built entirely with Vanilla JavaScript, it offers a seamless and responsive experience without the need for a backend server.
 
-🔗 **Live Demo:** [View App Here](https://sulthon.github.io/vidic-finance/)
+🔗 **Live Demo:** [View App Here](https://sulthonavidi.github.io/vidicfinance/)
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Vidic+Finance+Dashboard)
-*(Note: Upload your own screenshot to the repo and replace the link above)*
+![Project Screenshot]<img width="535" height="408" alt="Screenshot 2026-02-17 161433" src="https://github.com/user-attachments/assets/b098011c-7787-4b2a-8fad-735553d2eefc" />
 
 ## ✨ Key Features
 
