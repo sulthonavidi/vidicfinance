@@ -47,8 +47,5 @@ This project is static and serverless. You can run it directly:
 2.  **Open the file:**
     Simply open `index.html` in your favorite web browser.
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 *Created by Sulthon Avidi.*
