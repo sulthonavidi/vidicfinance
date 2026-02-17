@@ -6,7 +6,8 @@
 
 
 
-<img width="536" height="380" alt="image" src="https://github.com/user-attachments/assets/5328c767-6cac-434b-be1b-97f3b5241be1" />
+<img width="537" height="406" alt="image" src="https://github.com/user-attachments/assets/70f03766-a49b-4997-bcd9-1bd001f071b7" />
+
 
 ## ✨ Key Features
 
