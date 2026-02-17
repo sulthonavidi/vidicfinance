@@ -1,11 +1,12 @@
-**Vidic Finance** is a modern, privacy-focused personal finance management application designed with a mobile-first approach. Built entirely with Vanilla JavaScript, it offers a seamless and responsive experience without the need for a backend server.
+**VidicFinance** is a modern, privacy-focused personal finance management application designed with a mobile-first approach. Built entirely with Vanilla JavaScript, it offers a seamless and responsive experience without the need for a backend server.
 
 🔗 **Live Demo:** [View App Here](https://sulthonavidi.github.io/vidicfinance/)
 
 ![Project Screenshot] 
 
 
-<img width="535" height="408" alt="Screenshot 2026-02-17 161433" src="https://github.com/user-attachments/assets/b098011c-7787-4b2a-8fad-735553d2eefc" />
+
+<img width="536" height="380" alt="image" src="https://github.com/user-attachments/assets/5328c767-6cac-434b-be1b-97f3b5241be1" />
 
 ## ✨ Key Features
 
@@ -33,16 +34,6 @@
 - **Libraries:** [Chart.js](https://www.chartjs.org/) (for data visualization).
 - **API:** [CoinGecko API](https://www.coingecko.com/en/api) (for crypto/gold prices).
 - **Database:** Web LocalStorage API (Client-side).
-
-## 🚀 How to Run
-This project is static and serverless. You can run it directly:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/sulthon/vidic-finance.git](https://github.com/sulthon/vidic-finance.git)
-    ```
-2.  **Open the file:**
-    Simply open `index.html` in your favorite web browser.
 
 ---
 *Created by Sulthon Avidi.*
