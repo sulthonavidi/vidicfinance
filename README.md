@@ -2,13 +2,6 @@
 
 🔗 **Live Demo:** [View App Here](https://sulthonavidi.github.io/vidicfinance/)
 
-![Project Screenshot] 
-
-
-
-<img width="537" height="406" alt="image" src="https://github.com/user-attachments/assets/70f03766-a49b-4997-bcd9-1bd001f071b7" />
-
-
 ## ✨ Key Features
 
 ### 📊 Dashboard & Monitoring
