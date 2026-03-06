@@ -1,4 +1,5 @@
-**VidicFinance** is a modern, privacy-focused personal finance management application designed with a mobile-first approach. Built entirely with Vanilla JavaScript, it offers a seamless and responsive experience without the need for a backend server.
+**VidicFinance** is a modern, privacy-focused personal finance management application.
+Built entirely with Vanilla JavaScript, it offers a seamless and responsive experience without the need for a backend server.
 
 🔗 **Live Demo:** [View App Here](https://sulthonavidi.github.io/vidicfinance/)
 
